@@ -8,7 +8,7 @@ int main()
 	cout << "Enter Your Age: ";
 	cin >> age;
 	
-	// print THANK YOU MESSAGE
+	// print THANK YOU message
 	cout << "THANK YOU!" << endl;
 	
 	return 0;
